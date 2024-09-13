@@ -13,9 +13,9 @@
     "dll": {
         "version": "3188",
         "patched": false,
-        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-13/JJSploit.dll",
+        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
         "dependencies": [
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-13/JJSploit.dll",
+            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
