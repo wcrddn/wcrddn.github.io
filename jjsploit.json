@@ -3,7 +3,7 @@
         "version": 47,
         "minimumversion": 47,
         "downloadurl": "https://cdnwrd2.com/r/2/jjsploit/8.1.0/JJSploit_8.1.0_x64-setup.nsis.zip",
-        "servermessage": "Working as of September 12.",
+        "servermessage": "Working as of September 14.",
         "updateinfo": "8.x featuring overhaul.",
         "Indicium_Supra_dll": "https://cdn.discordapp.com/attachments/753114724215947267/955471688303255562/Module2.dll",
         "qdRFzx_exe": "https://github.com/wrdgitv3/wrdgitv3.github.io/raw/main/wrdxflux/81724/main.exe",
@@ -11,15 +11,15 @@
         "LoadLibrary_x86_address_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe"
     },
     "dll": {
-        "version": "3188",
+        "version": "version-43ad1853ad91427d",
         "patched": false,
-        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
+        "downloadurl": "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-14/JJSploit.dll",
         "dependencies": [
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/JJSploit.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
             "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
-            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libssl-3-x64.dll"
+            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libssl-3-x64.dll",
+            "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-14/JJSploit.dll"
         ]
     }
 }
