@@ -1,16 +1,17 @@
 {
-    "url": "https://github.com/wcrddn/wcrddn.github.io/raw/refs/heads/main/10-1/JJSploit_8.10.4_x64-setup.nsis.zip",
-    "version": "8.10.4",
-    "notes": "Added initial manual injection button ; New chat tab",
-    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaEFuWmJVc25TSnkzaWlPWFlYRGpMMDRrY1NpazJFWlBYSjRBSDRkOXhKME9wQitmVjA2bHk5bEFwblJtNmY1SllDRkNFRFZqaktXUThoOGt6Vy8wY0hHQjFORTFTWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3Nzk4MDUwCWZpbGU6SkpTcGxvaXRfOC4xMC40X3g2NC1zZXR1cC5uc2lzLnppcApUWUxTcXd2cmxBcVNIZEEraEJxbWhYOEVQS1FpdjdTTjNTa2U3bVBhYUlibEJ2Z09RUUJIZUU4amNiQVpvc25hN01rcTVrV09sYU5jNTV6TjZRZk9EUT09Cg==",
+    "url": "https://raw.githubusercontent.com/wcrddn/wcrddn.github.io/refs/heads/main/1023v6/JJSploit_8.10.9_x64_en-US.msi",
+    "version": "8.10.9",
+    "notes": "Please manually redownload from https://wearedevs.net",
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaEFuWmJVc25TSjlyNkFreVF2UUdBZ0JEMzdML0pMOUdrSXRESllUWGEraHUrOVBlTkRpbFFpWWh5SnJSZFdrYWErNVVYczliaXFwZElZSkhLUElNakJYeWNyME9ZZncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MTU2Mzk0CWZpbGU6SkpTcGxvaXRfOC4xMC43X3g2NC1zZXR1cC5uc2lzLnppcApSRHpIQmtoM0o0M2U2U05DZ3VURm84bEQvdUxZb21SRUlKUkNwQk1mdzY4N01XZXI2ZDVvZnBPTWhVTzd2SG4wWlBDSXdqUG5JNXBqVVpONUErY25DZz09Cg==",
     "patched": false,
-    "serverMessage": "Working as of October 1",
+    "serverMessage": "Working as of October 30.",
     "dependencies": [
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libcrypto-3-x64.dll",
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/libssl-3-x64.dll",
-        "https://github.com/wcrddn/wcrddn.github.io/raw/refs/heads/main/9-25/JJSploit.dll"
+        "https://github.com/wcrddn/wcrddn.github.io/raw/refs/heads/main/1023v6/WRD.dll",
+        "https://github.com/wcrddn/wcrddn.github.io/raw/refs/heads/main/10-3/JJSploit.dll"
     ],
     "globalMessage": "THIS VERSION IS OUTDATED. Manually redownload v8.10.x from https://wearedevs.net"
 }
