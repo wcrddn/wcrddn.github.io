@@ -1,10 +1,10 @@
 {
     "url": "https://raw.githubusercontent.com/wcrddn/wcrddn.github.io/refs/heads/main/1023v6/JJSploit_8.10.9_x64_en-US.msi",
-    "version": "8.10.9",
+    "version": "8.10.14",
     "notes": "Please manually redownload from https://wearedevs.net",
     "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaEFuWmJVc25TSjlyNkFreVF2UUdBZ0JEMzdML0pMOUdrSXRESllUWGEraHUrOVBlTkRpbFFpWWh5SnJSZFdrYWErNVVYczliaXFwZElZSkhLUElNakJYeWNyME9ZZncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MTU2Mzk0CWZpbGU6SkpTcGxvaXRfOC4xMC43X3g2NC1zZXR1cC5uc2lzLnppcApSRHpIQmtoM0o0M2U2U05DZ3VURm84bEQvdUxZb21SRUlKUkNwQk1mdzY4N01XZXI2ZDVvZnBPTWhVTzd2SG4wWlBDSXdqUG5JNXBqVVpONUErY25DZz09Cg==",
     "patched": false,
-    "serverMessage": "Working as of November 13.",
+    "serverMessage": "Working as of November 17.",
     "dependencies": [
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/zstd.dll",
         "https://github.com/wcrddn/wcrddn.github.io/raw/main/9-12/xxhash.dll",
