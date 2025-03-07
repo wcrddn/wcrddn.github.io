@@ -2,4 +2,4 @@ if about.Hash ~= "25e5857fd24b345f361b31340595df9cd6b893227158f2da9a294e2778fab7
 	getgenv()._WebSocket = getgenv().WebSocket
   	getgenv().WebSocket = nil
 end
-assert(getexecutorname() == "JJSploit x Xeno", "This is not the official Xeno executor. Use at your own risk!", 3)
+assert(getexecutorname() == "JJSploit x Xeno", "This is not the official JJSploit executor. Use at your own risk!", 3)
