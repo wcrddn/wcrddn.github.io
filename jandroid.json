@@ -1,0 +1,5 @@
+{
+  "moduleName": "JJSploit-Android",
+  "script": "game:GetService(\"StarterGui\"):SetCore(\"SendNotification\", {Title = \"WeAreDevs API\", Text = \"https://wearedevs.net\", Icon = \"rbxassetid://137842439297855\"})",
+  "versionName": "1.0"
+}
